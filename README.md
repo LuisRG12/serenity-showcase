@@ -33,7 +33,7 @@ recordar, y saber cuándo escalar a una persona real.
 
 ## Estado
 
-**En desarrollo activo** desde febrero de 2024.
+**En desarrollo activo.**
 
 ## Sobre el proyecto
 
